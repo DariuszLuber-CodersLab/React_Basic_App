@@ -1,0 +1,19 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Trylogia czarnego maga cz.1",
+      "author": "Trudi Canavan"
+    },
+    {
+      "id": 2,
+      "title": "Trylogia czarnego maga cz.2",
+      "author": "Trudi Canavan"
+    },
+    {
+      "id": 3,
+      "title": "Trylogia czarnego maga cz.3",
+      "author": "Trudi Canavan"
+    }
+  ]
+}
